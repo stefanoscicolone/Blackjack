@@ -1,0 +1,10 @@
+C:\Users\scicolones\campominato\BlackJackScicolone\BlackJackScicolone\bin\Debug\BlackJackScicolone.exe.config
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\bin\Debug\BlackJackScicolone.exe.config
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\bin\Debug\BlackJackScicolone.exe
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\bin\Debug\BlackJackScicolone.pdb
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\obj\Debug\BlackJackScicolone.csprojResolveAssemblyReference.cache
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\obj\Debug\BlackJackScicolone.FormBlackJack.resources
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\obj\Debug\BlackJackScicolone.Properties.Resources.resources
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\obj\Debug\BlackJackScicolone.csproj.GenerateResource.Cache
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\obj\Debug\BlackJackScicolone.exe
+C:\Users\scicolones\Desktop\BlackJackScicolone\BlackJackScicolone\obj\Debug\BlackJackScicolone.pdb
